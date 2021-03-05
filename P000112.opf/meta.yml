@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000112
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །མཁས་འཇུག་གི་སྡོམ་བྱང་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་མི་ཕམ་རིན་པོ་ཆེ།
-  sku: LEK-PHI-006
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: LEK-PHI-006
 web_metadata:
   title:
     en: A Summary of The Entrance to the Way of the Wise
