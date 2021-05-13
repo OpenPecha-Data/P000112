@@ -2,11 +2,11 @@ id: 9d8733a83fec4ced885e0ac7d023e386
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: 16a11b91cb8a4e85913ce7e6d0dd1474
-  span:
-    start: 74
-    end: 110
-- id: 5eeb913384e54ea3bf11a7415437f30c
-  span:
-    start: 48230
-    end: 48288
+  16a11b91cb8a4e85913ce7e6d0dd1474:
+    span:
+      start: 74
+      end: 110
+  5eeb913384e54ea3bf11a7415437f30c:
+    span:
+      start: 48230
+      end: 48288
